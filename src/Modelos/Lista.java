@@ -8,9 +8,6 @@ public class Lista {
     Nodo Auxiliar;
     String cadena = "";
     
-    public void Apilar(){
-        
-    }
     public void Apilar(int dato){
         
         Nodo nuevoNodo = new Nodo(dato);
